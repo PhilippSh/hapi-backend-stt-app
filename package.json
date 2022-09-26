@@ -15,7 +15,7 @@
     "axios": "^0.18.1",
     "fluent-ffmpeg": "^2.1.2",
     "fs": "0.0.1-security",
-    "pm2": "^3.5.0"
+    "pm2": "^5.2.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.0"
